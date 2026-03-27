@@ -1,4 +1,4 @@
-# 📰 DailyNews - React Native App
+# 📰 briefr - React Native App
 
 A responsive mobile news application built with React Native and Expo. It allows users to browse the latest headlines across multiple categories with a clean and structured UI.
 
